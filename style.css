@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.page-wrapper{
+    width: 100%;
+}
+.flex-container{
+    width:99.5%;
+    padding: 284.5px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 3px solid skyblue;
+}
+.box{
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    background-color: gray;
+    line-height: 40px;
+
+}
